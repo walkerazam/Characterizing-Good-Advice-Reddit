@@ -6,22 +6,22 @@ including code description, analysis, and final write up. `LDA Reddit Topic Mode
 
 Team Member Contributions:
 
-Walker:
+**Walker**:
 
-EDA/Preliminary Analysts
-LDA Topic Modelling (Seperate Notebook)
-Comment Collection (Seperate Notebook)
-Score Seperation
-Naive Bayes
-Hypothesis Testing (T-Tests)
+- EDA/Preliminary Analysts
+- LDA Topic Modelling (Seperate Notebook)
+- Comment Collection (Seperate Notebook)
+- Score Seperation
+- Naive Bayes
+- Hypothesis Testing (T-Tests)
 
-Ken:
+**Ken**:
 
-EDA/Preliminary Analysis
-Limitations/Ethics/Future Work write up
+- EDA/Preliminary Analysis
+- Limitations/Ethics/Future Work write up
 
-Wen Yi:
+**Wen Yi**:
 
-Post Collection/Reddit API (Seperate Notebook)
-EDA/Preliminary Analysis
-Logistic Regression
+- Post Collection/Reddit API (Seperate Notebook)
+- EDA/Preliminary Analysis
+- Logistic Regression
